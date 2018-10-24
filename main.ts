@@ -113,3 +113,4 @@ namespace rcbit {
         let value = v_us * 4096 / 20000
         setPwm(index + 7, 0, value)
     }
+}
