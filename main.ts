@@ -33,7 +33,7 @@ namespace rcbit {
 
     let initialized = false
 
-    let matBuf = pins.createBuffer(17);
+    let matBuf 11= pins.createBuffer(17);
 
     function i2cwrite(addr: number, reg: number, value: number) {
         let buf = pins.createBuffer(2)
