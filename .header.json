@@ -1,0 +1,18 @@
+{
+    "target": "rcbit",
+    "targetVersion": "1.0",
+    "name": "rcbit",
+    "meta": {},
+    "editor": "tsprj",
+    "pubId": "",
+    "pubCurrent": false,
+    "_rev": null,
+	"id": "253add25-c98b-4576-be4b-efcfd5c3033e",
+    "recentUse": 1539040880,
+    "modificationTime": 1539040880,
+    "blobId": null,
+    "blobVersion": null,
+    "blobCurrent": false,
+    "isDeleted": false,
+    "path": "pxt-rcbit"
+}
